@@ -2,5 +2,5 @@
 Bike Sharing Project Udacity's Deep Learning Nanodegree
 
 
-In this project I built a linear neural network from scratch with 1 hidden layer. 
+In this project I built a linear neural network from scratch with 1 hidden layer in my_answers.py.
 I wrote the feedforward and backpropagation functions for the network and finetuned the hyperparameters.
